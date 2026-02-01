@@ -32,9 +32,9 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 
 ### 📊 GitHub Statistikam
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanakulovDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&langs_count=7&theme=radical" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanakulovDev&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -42,7 +42,10 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 ### 📫 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/SanakulovDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://t.me/SanakulovDev" target="blank">
+  <a href="https://t.me/sanakulovanvar" target="blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 <a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
