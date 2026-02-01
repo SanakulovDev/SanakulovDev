@@ -32,8 +32,7 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 ### 📫 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/SanakulovDev" target="blank">
-  <a href="https://t.me/sanakulovanvar" target="blank">
+  <a href="https://t.me/sanakulovdev" target="blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
 <a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
