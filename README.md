@@ -33,8 +33,8 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 ### 📊 GitHub Statistikam
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanakulovDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
@@ -42,8 +42,8 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 ### 📫 Men bilan bog'laning:
 
 <p align="left">
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://t.me/SanakulovDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
