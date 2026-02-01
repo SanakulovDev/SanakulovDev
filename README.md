@@ -28,16 +28,6 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 | **Databases** | MySQL, PostgreSQL, Redis, MongoDB |
 | **Infrastructure** | Docker, Nginx, RabbitMQ, GitHub Actions |
 
----
-
-### 📊 GitHub Statistikam
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanakulovDev&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
 
 ### 📫 Men bilan bog'laning:
 
