@@ -1,55 +1,49 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Sanakulov Anvar</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Men Sanakulov Anvar
 
-<h3 align="center">PHP Backend Developer | System Design Enthusiast</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yii2-4288B9?style=for-the-badge&logo=yii&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/yii-%234288B9.svg?style=for-the-badge&logo=yii&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-</div>
+### 👨‍💻 O'zim haqimda
 
-<br/>
+Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yillik tajribam davomida asosan PHP ekotizimida murakkab loyihalarni amalga oshirdim. Hozirda fokusimni **Go (Golang)** va **Distributed Systems** (tarqatilgan tizimlar) ga qaratganman.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-blue?style=flat-square&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Focus-Backend-success?style=flat-square&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Location-Uzbekistan-red?style=flat-square&logo=appveyor" />
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I am an experienced Backend Developer with **4+ years of expertise**, currently working at **BTS Express**. I specialize in building scalable web applications using **PHP (Yii2)**. Currently, I am expanding my skills in **System Design** and transitioning to **Go (Golang)** for high-performance microservices.
-
-- 🔭 I’m currently working on: **High-load Telegram Bots & Backend Architecture**
-- 🌱 I’m currently learning: **System Design (High Load) & Go**
-- 💬 Ask me about: **PHP, Yii2, SQL Optimization, Redis**
+* 🔭 **Hozirgi loyiham:** Go-da yuqori yuklamali (high-load) Telegram botlar va tunneling servislar.
+* 🌱 **O'rganyapman:** System Design (High Load), Microservices architecture va Go concurrency.
+* 🎓 **Ta'lim:** [42.uz](https://42.uz) platformasida **System Design** kursini tamomlaganman.
+* ⚡ **Maqsad:** Katta hajmdagi ma'lumotlar bilan ishlaydigan, barqaror va tezkor arxitekturalar yaratish.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Texnologiyalar
 
-```php
-<?php
+| Yo'nalish | Texnologiyalar |
+| :--- | :--- |
+| **Languages** | PHP, Go (Learning), SQL |
+| **Frameworks** | Yii2, Symfony, Echo (Go) |
+| **Databases** | MySQL, PostgreSQL, Redis, MongoDB |
+| **Infrastructure** | Docker, Nginx, RabbitMQ, GitHub Actions |
 
-class BackendDeveloper {
-    public $name = "Your Name";
-    public $current_company = "BTS Express";
-    public $experience = "4+ Years";
-    
-    public function getSkills() {
-        return [
-            "Languages" => ["PHP", "SQL", "Learning: Go"],
-            "Frameworks" => ["Yii2", "Symfony"],
-            "Database"  => ["MySQL", "PostgreSQL", "Redis", "MongoDB"],
-            "Tools"     => ["Docker", "Git", "Nginx"]
-        ];
-    }
+---
 
-    public function futureGoal() {
-        return "Building scalable, high-load distributed systems.";
-    }
-}
+### 📊 GitHub Statistikam
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+---
+
+### 📫 Men bilan bog'laning:
+
+<p align="left">
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
