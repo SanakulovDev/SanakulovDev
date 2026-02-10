@@ -148,7 +148,7 @@
       </div>
       
       <p class="text-xs text-slate-600 mt-12">
-        © 2024 Sanakulov. Backend Developer.
+        © 2026 Sanakulov. Backend Developer.
       </p>
     </footer>
   </div>
