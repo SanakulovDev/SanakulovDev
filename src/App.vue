@@ -8,7 +8,7 @@
           </span>
           <div>
             <p class="text-sm uppercase tracking-[0.2em] text-slate-400">sanakulov.uz</p>
-            <p class="text-base font-semibold">Sanakulov</p>
+            <p class="text-base font-semibold">Anvar Sanakulov</p>
           </div>
         </div>
         <nav class="hidden gap-6 text-sm text-slate-300 md:flex">
@@ -31,7 +31,7 @@
         <div class="space-y-6">
           <p class="text-sm uppercase tracking-[0.25em] text-emerald-400">Backend Developer</p>
           <h1 class="text-4xl font-semibold leading-tight text-white sm:text-5xl">
-            Salom, I'm Sanakulov.
+            Salom, I'm Anvar Sanakulov.
             <span class="block text-slate-400">I build reliable backend systems.</span>
           </h1>
           <p class="text-base text-slate-300 sm:text-lg">
