@@ -34,9 +34,9 @@ A high-performance Telegram bot developed using **Go**, demonstrating clean arch
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | PHP (Expert), Go (Intermediate), SQL |
-| **Frameworks** | Yii2, Symfony, Echo (Go), Gin |
+| **Frameworks** | Yii2, Echo (Go), Gin |
 | **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
-| **Infrastructure** | Docker, Nginx, RabbitMQ, GitHub Actions |
+| **Infrastructure** | Docker, Nginx, GitHub Actions |
 | **Networking** | Sockets, Port Scanning, Banner Grabbing (Learning) |
 
 ---
