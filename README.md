@@ -1,47 +1,62 @@
-# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Men Sanakulov Anvar
+# <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Anvar Sanakulov
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yii2-4288B9?style=for-the-badge&logo=yii&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 👨‍💻 O'zim haqimda
+### 👨‍💻 About Me
 
-Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yillik tajribam davomida asosan PHP ekotizimida murakkab loyihalarni amalga oshirdim. Hozirda fokusimni **Go (Golang)** va **Distributed Systems** (tarqatilgan tizimlar) ga qaratganman.
+I am a **Backend Developer** at **BTS Express** with over 4 years of experience in building robust applications, primarily within the PHP/Yii2 ecosystem. Currently, I am deeply focused on mastering **Go (Golang)** and architecting **Distributed Systems**.
 
-* 🔭 **Hozirgi loyiham:** Go-da yuqori yuklamali (high-load) Telegram botlar va tunneling servislar.
-* 🌱 **O'rganyapman:** System Design (High Load), Microservices architecture va Go concurrency.
-* 🎓 **Ta'lim:** [42.uz](https://42.uz) platformasida **System Design** kursini tamomlaganman.
-* ⚡ **Maqsad:** Katta hajmdagi ma'lumotlar bilan ishlaydigan, barqaror va tezkor arxitekturalar yaratish.
+* 🔭 **Current Project:** Building high-load Telegram bots and networking/tunneling services using Go.
+* 🌱 **Focus Areas:** System Design, Microservices Architecture, and Go Concurrency (Goroutines & Channels).
+* 🎓 **Education:** Completed **System Design** course at [42.uz](https://42.uz).
+* ⚡ **Goal:** Engineering scalable, high-performance architectures capable of handling massive datasets.
 
 ---
 
-### 🛠 Texnologiyalar
+### 🛠 Tech Stack & Tools
 
-| Yo'nalish | Texnologiyalar |
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | PHP, Go (Learning), SQL |
-| **Frameworks** | Yii2, Symfony, Echo (Go) |
-| **Databases** | MySQL, PostgreSQL, Redis, MongoDB |
+| **Languages** | PHP (Expert), Go (Intermediate), SQL |
+| **Frameworks** | Yii2, Symfony, Echo (Go), Gin |
+| **Databases** | PostgreSQL, MySQL, Redis, MongoDB |
 | **Infrastructure** | Docker, Nginx, RabbitMQ, GitHub Actions |
+| **Tools** | Git, Postman, Linux (Ubuntu/Debian) |
 
+---
 
-### 📫 Men bilan bog'laning:
+### 🚀 Key Interests
+
+- **Backend Optimization:** Deep diving into query optimization and advanced caching strategies.
+- **Scalability:** Transitioning from Monolithic to Microservices and Event-Driven architectures.
+- **Automation:** Implementing CI/CD pipelines to streamline development workflows.
+
+### 📫 Connect with me:
 
 <p align="left">
   <a href="https://t.me/sanakulovdev" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanakulovDev&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanakulovDev&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
