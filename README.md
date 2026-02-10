@@ -41,7 +41,7 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanakulovDev&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SanakulovDev&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SanakulovDev&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
