@@ -37,5 +37,3 @@ Men **BTS Express** kompaniyasida **Backend Developer** bo'lib ishlayman. 4 yill
 </a>
 <a href="https://linkedin.com/in/anvar-sanakulov-4264271b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
