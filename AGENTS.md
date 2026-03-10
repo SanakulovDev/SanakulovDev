@@ -1,23 +1,40 @@
 # AGENTS.md
 
-## Cursor Cloud specific instructions
+## Project
+- Name: Portfolio
+- Description: My Portfolio website
+- Language: javascript
+- Language version: ES2023 / Node 22
+- Framework: Vue
+- Deploy with Docker: no
+- Database: none
+- Stack: Vuejs
+- Primary IDE: vscode
+- Enabled providers: gemini
 
-This is a **Vue 3 + Vite + Tailwind CSS** single-page portfolio website (no backend, no database, no environment variables needed).
+## Working agreement
+- Before making non-trivial changes, create a short plan.
+- Prefer small, focused edits over broad rewrites.
+- Do not invent APIs, commands, or file paths. Verify them first.
+- Preserve existing architecture unless there is a clear reason to refactor.
+- Respect language version, framework constraints, deploy mode, and database specifics.
+- If changing behavior, update tests or add tests when practical.
+- After code changes, run the most relevant verification commands.
 
-### Running the dev server
+## Verification commands
+- Dev: `npm run dev`
+- Build: `npm run build`
+- Test: `npm test`
+- Lint: `npm run lint`
 
-```
-npm run dev
-```
+## Output style
+- Be direct.
+- Surface assumptions early.
+- Call out risks, migrations, and breaking changes explicitly.
+- When a task is ambiguous, prefer the smallest safe implementation.
 
-The Vite dev server starts on port 5173 by default. Use `--host 0.0.0.0` to expose it for browser testing.
-
-### Available npm scripts
-
-See `package.json` for all scripts: `dev`, `build`, `preview`.
-
-### Notes
-
-- There are no linters, formatters, or test frameworks configured in this project.
-- There are no environment variables or `.env` files required.
-- The project has no backend services or database dependencies.
+## Roles enabled
+- plan
+- review
+- test
+- code

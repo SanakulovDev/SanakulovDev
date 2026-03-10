@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agentup.dev/schema/agentup.json",
+  "generatedAt": "2026-03-10T08:51:59.624Z",
+  "providers": [
+    "gemini"
+  ],
+  "ide": "vscode",
+  "roles": [
+    "plan",
+    "review",
+    "test",
+    "code"
+  ],
+  "contentMode": "template",
+  "project": {
+    "name": "Portfolio",
+    "description": "My Portfolio website",
+    "dockerEnabled": false,
+    "database": {
+      "engine": "none",
+      "version": ""
+    },
+    "databaseVersion": "",
+    "stack": [
+      "Vuejs"
+    ],
+    "repoType": "node",
+    "language": "javascript",
+    "languageVersion": "ES2023 / Node 22",
+    "packageManager": "npm",
+    "framework": "Vue",
+    "devCommand": "npm run dev",
+    "buildCommand": "npm run build",
+    "testCommand": "npm test",
+    "lintCommand": "npm run lint",
+    "deploy": {
+      "docker": false
+    }
+  }
+}
